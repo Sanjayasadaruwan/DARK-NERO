@@ -38,7 +38,7 @@ global.alivepic = "https:// "https://ibb.co/XpH84Dg"//you logo key
 
 global.ownername = " SANJAYA  " //ur owner name
 global.owner = ['94762176146','']
-global.premium = ['94762176146','94774579505']
+global.premium = ['94762176146','']
 global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
 global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
 global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
